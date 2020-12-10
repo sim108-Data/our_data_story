@@ -9,9 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
-
 gem "jekyll-theme-hydejack", "~> 9.0"
-
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
 #
