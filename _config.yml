@@ -355,7 +355,7 @@ plugins:
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
 optional_front_matter:
-  remove_originals:    false
+  remove_originals:    true
 
 readme_index:
   remove_originals:    true
