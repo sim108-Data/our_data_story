@@ -48,11 +48,11 @@ $$
 
 ## We can add plot 
 
-| ![Cover page example](\assets\img\solution.jpg){:width="960" height="540"} | 
+| ![Cover page example](..\assets\img\solution.jpg){:width="960" height="540"} | 
 |:--:| 
 | *Fig1: Solution pour multiturbine* |
 ## We can add Gif 
-![Alt Text](\assets\img\03Dec2019PickupRendu.gif)
+![Alt Text](..\assets\img\03Dec2019PickupRendu.gif)
 
 
 
