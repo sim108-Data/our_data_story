@@ -53,12 +53,18 @@ $$
 | *Fig1: Solution pour multiturbine* |
 ## We can add Gif 
 ![Alt Text](..\assets\img\03Dec2019PickupRendu.gif)
+## Plotly
+{%include house-of-user4.html%}
 
 
+{%include house-of-user.html%}
 
 
+## eufa
+{%include house-of-user2.html%}
 
 
+{%include house-of-user3.html%}
 
 
 
