@@ -9,7 +9,14 @@ sitemap: false
 # Social network mobility a mirror of our mobility through time
 ## Abstract:
 The paper focuses on three main aspects of human mobility: geographic movement, temporal dynamics, and the social network. We propose to extend the temporal dynamic treatment from just the day/weekly timescale in the paper to look at an entire year. We will enrich our dataset by adding time series data about holidays, events, and regional weather patterns. Our hypothesis is that mobility patterns are influenced by these features. We expect to see large changes for holidays and events which are planned moments for mobility while weather patterns as an unpredictable phenomenon are expected to have a different and milder influence on the movement pattern. This will allow us to understand broader temporal trends in human mobility and periodicity and the influence of environmental factors such as weather (seasons) or natural disasters. The findings of these questions could be incorporated into a more detailed and robust model of human mobility.
-You can add a note
+{%include user_by_country.html%}
+
+
+{%include testhouse-of-user2.html%}
+{%include testhouse_user1.html%}
+
+{%include test3_blue.html%}
+{%include test3_red.html%}
 {:.note}salut
 ## Research Questions:
 * Is there a significant difference in travel behavior between seasons (winter/summer/spring/fall)?
