@@ -97,7 +97,7 @@ $$
 ## eufa
 
 
-<iframe src="..\assets\plots\test.html" width="100%" height="600px"></iframe>
+<iframe src="..\assets\plots\kepler.gl.html" width="100%" height="600px"></iframe>
 
 
 
