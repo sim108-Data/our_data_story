@@ -7,7 +7,8 @@ hide_description: true
 sitemap: false
 ---
 # Social network mobility a mirror of our mobility through time
-Hey ?! what's up every body ! Did you like the front cover! Petty neat isn't it ...
+Did you ever sit for a minute and start thinking on how the world keeps mooving even when you are not. Mouvement keeps raising the interest 
+of many authors from centuries 
 Yeah it's my first website so I'm pretty proud of it but enough talking about me. 
 You know what else is also really neat ? You're right it's what we will show you in our datastory.
 Before starting, let's talk about datas. In our case, we had in our possession two data set with all 
@@ -36,7 +37,7 @@ So as we want to add other data set as the Temperature or to find the relation b
 
 ## The take over of Gowalla and BrightKite in United states
 
-
+{%include holiday_table.html%}
 In the last section, we 
 
 
