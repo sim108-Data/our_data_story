@@ -84,7 +84,7 @@ Our next step was to split our data into different seasonal groups and to look a
 
 
 If there is a clear separation here then we have some evidence that there are differences between the seasons. 
-![seasons](..\assets\seasons_pdf.png){:.lead width="800" height="500" loading="lazy"}
+![seasons](..\assets\img\seasons_pdf.png){:.lead width="800" height="500" loading="lazy"}
 Comparaison between seasons.
 {:.figcaption}
 
@@ -94,19 +94,19 @@ We show how the average temperature changes by season as well as the precipitati
 
 ## Average temperature by season plot
 
-{:refdef: style="text-align: center;"}
-![temperature](..\assets\season_temp_new.png){:.lead width="800" height="500" loading="lazy"}
+
+![temperature](..\assets\img\season_temp_new.png){:.lead width="800" height="500" loading="lazy"}
 The average seasonal precipitation level over the USA. Data taken from averaging the daily gridded data
 {:.figcaption}
-{: refdef}
+
 
 ## Average rain by season
 
-{:refdef: style="text-align: center;"}
-![rain](..\assets\season_pr_new.png){:.lead width="800" height="500" loading="lazy"}
+
+![rain](..\assets\img\season_pr_new.png){:.lead width="800" height="500" loading="lazy"}
 The average seasonal precipitation level over the USA. Data taken from averaging the daily gridded data.
 {:.figcaption}
-{: refdef}
+
 
 | Spring          |Holidays    | Count            | Summer         | Holidays                                                   |Count      | Autumn        | Holidays                                | Count           | Winter     | Holidays                                                                         | Count |
 |-----------------|------------|:----------------:|----------------|:----------------------------------------------------------:|:---------:|---------------|:---------------------------------------:|:---------------:|------------|:--------------------------------------------------------------------------------:|:-----:|
@@ -129,9 +129,9 @@ As the days colder do we also slow down? As they heat up do we speed up?
 In this section we take a look into the weather's impact on mobility in the United States. For climate data we have the daily precipitation level and temperature over the USA. We tie that data to the home location of their houses taking the time component of the check-ins and that data is appended to the data corresponding to each check-in.
 This first graph is exploratory and shows in color the current average temperature by region over the selected period. The height of the bars represents the average for that area of the statistic that we introduced above. (average distance from home by user by day) You can use this to look at temperature and distance traveled in the United States and explore the data yourself!
 
-{:refdef: style="text-align: center;"}
+
 <iframe src="..\assets\plots\coolplot.html" width="100%" height="600px"></iframe>
-{: refdef}
+
 
 We also take a more rigorous treatment of the data by splitting our data into groups and applying a statistical test to tell us if there is a significant difference between the groups. 
 We also take another step in limiting all check-ins to be within 100km of the users house.
@@ -184,7 +184,7 @@ For this end, we have plotted the weekly average of the traveled distance of use
  To verify this observation, we carried out proper statistical tests (considering non-normal distribution of the data)
  and double checked our speculation (the influence of holiday on travel metrics such mean distance traveled) with Kruskal–Wallis test.
 
-![holiday](..\assets\holiday.png){:.lead width="800" height="500" loading="lazy"}
+![holiday](..\assets\img\holiday.png){:.lead width="800" height="500" loading="lazy"}
 
 
 # Conclusion

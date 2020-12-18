@@ -59,7 +59,7 @@ menu:
     url:               https://snap.stanford.edu/data/loc-Brightkite.html   
    
   - title:             About us
-    url:               /about/
+    url:               \about.md
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

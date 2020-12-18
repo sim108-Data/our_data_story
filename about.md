@@ -21,7 +21,7 @@ was a great help during this project.
 * email : [ali.falsafi@epfl.ch](mailto:ali.falsafi@epfl.ch)
 
 {:refdef: style="text-align: center;"}
-![Ali](..\assets\ali.jpeg){:width="180" height="180" loading="lazy"}
+![Ali](..\assets\img\simon.jpeg){:width="180" height="180" loading="lazy"}
 {: refdef}
 
 
