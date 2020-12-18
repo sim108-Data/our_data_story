@@ -53,7 +53,12 @@ menu:
   - title:             Where it started?
     url:               https://drive.google.com/file/d/1r94_60ajzd9feLF6W1dTVQ6xYC6FYuwP/view?usp=sharing
   - title:             Our travel through datas
-    url:               /docs/
+    url:               /index/ 
+  - title:             Gowalla datas 
+    url:               https://snap.stanford.edu/data/loc-Gowalla.html
+  - title:             Brightkite datas 
+    url:               https://snap.stanford.edu/data/loc-Brightkite.html   
+   
   - title:             About
     url:               /about/
 
@@ -64,8 +69,8 @@ menu:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
-
+#permalink:             /:categories/:year-:month-:day-:title/
+permalink:             none
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /:num/
