@@ -35,7 +35,7 @@ Data science. His motivation and his skills at cooking chicken are great.
 * email : [alec.flowers@epfl.ch](mailto:alec.flowers@epfl.ch)
 
 
-![Alec](..\assets\alec.jpeg){:width="180" height="180" loading="lazy"}
+![Alec](..\assets\img\alec.jpeg){:width="180" height="180" loading="lazy"}
 {: refdef}
 
 ## Simon Dayer
@@ -47,7 +47,7 @@ granted him all the necessary skill to participate in the construction of the we
 * email : [simon.dayer@gmail.com](mailto:simon.dayer@gmail.com)
 
 {:refdef: style="text-align: center;"}
-![Simon](..\assets\simon.jpeg){:width="180" height="1" loading="lazy"}
+![Simon](..\assets\img\simon.jpeg){:width="180" height="1" loading="lazy"}
 {: refdef}
 
 

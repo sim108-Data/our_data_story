@@ -52,14 +52,14 @@ menu:
   - title:             Where it started?
     url:               https://drive.google.com/file/d/1r94_60ajzd9feLF6W1dTVQ6xYC6FYuwP/view?usp=sharing
   - title:             Our travel through datas
-    url:               /docs/ 
+    url:               ..\docs\README.md 
   - title:             Gowalla datas 
     url:               https://snap.stanford.edu/data/loc-Gowalla.html
   - title:             Brightkite datas 
     url:               https://snap.stanford.edu/data/loc-Brightkite.html   
    
   - title:             About us
-    url:               /about/
+    url:               ..\about.md
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
